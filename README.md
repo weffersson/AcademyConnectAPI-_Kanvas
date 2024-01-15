@@ -1,5 +1,14 @@
-# M5 - Projeto Final Kanvas
+# Dados da introdução do projeto
+## Introdução
+Recebi uma nova demanda: desenvolver uma API Rest para o gerenciamento de cursos e aulas de uma escola de modalidade EAD. Neste projeto final, fui encarregado de criar uma aplicação que permitisse aos usuários acessar e gerenciar de forma eficiente e intuitiva todos os aspectos relacionados aos cursos, inscrições, aulas e outros recursos do ambiente de ensino a distância.
 
+
+## URL da documentação da API Kanvas
+url_documentacao = "https://m5-projeto-final-kanva.onrender.com/api/docs/"
+
+## Observações sobre a disponibilidade da documentação
+**Observações:**
+- <span style="color:red">Caso a documentação não esteja acessível, pode ser devido ao projeto ter sido excluído do Render devido ao plano gratuito ou por ter sido excluído para dar espaço a outros projetos.</span>
 ## Preparando ambiente para execução dos testes
 
 1. Verifique se os pacotes **pytest**, **pytest-testdox** e/ou **pytest-django** estão instalados globalmente em seu sistema:
